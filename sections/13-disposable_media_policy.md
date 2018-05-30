@@ -8,7 +8,7 @@ WatchTower utilizes dedicated hardware from Subcontractors. ePHI is only stored 
 
 ### 13.1.1 Applicable Standards from the HIPAA Security Rule
 
-* 164.310(d)(1) - Device and Media Controls
+* 164.310\(d\)\(1\) - Device and Media Controls
 
 ## 13.2 Disposable Media Policy
 
@@ -22,3 +22,4 @@ WatchTower utilizes dedicated hardware from Subcontractors. ePHI is only stored 
 8. The methods of destruction, disposal, and reuse are reassessed periodically, based on current technology, accepted practices, and availability of timely and cost-effective destruction, disposal, and reuse technologies and services.
 9. In the cases of a WatchTower Customer terminating a contract with WatchTower and no longer utilizing WatchTower Services, the following actions will be taken depending on the WatchTower Services in use. In all cases it is solely the responsibility of the WatchTower Customer to maintain the safeguards required of HIPAA once the data is transmitted out of WatchTower Systems.
    * WatchTower will provide the customer with 30 days from the date of termination to export data.
+

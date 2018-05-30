@@ -2,16 +2,15 @@
 
 WatchTower works with Subcontractors to assure restriction of physical access to systems used as part of the WatchTower Platform. WatchTower and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which WatchTower workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of WatchTower facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to WatchTower's facility.
 
-Of note, WatchTower does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. WatchTower does not physically house any systems used by its Platform in WatchTower facilities. Physical security of our Platform servers is outlined [in §1.4](#1.4-WatchTower-organizational-concepts).
+Of note, WatchTower does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. WatchTower does not physically house any systems used by its Platform in WatchTower facilities. Physical security of our Platform servers is outlined [in §1.4](09-facility_access_policy.md#1.4-WatchTower-organizational-concepts).
 
 ## 09.1 Applicable Standards
 
-
 ### 09.1.1 Applicable Standards from the HIPAA Security Rule
 
-* 164.310(a)(2)(ii) Facility Security Plan
-* 164.310(a)(2)(iii) Access Control & Validation Procedures
-* 164.310(b-c) Workstation Use & Security
+* 164.310\(a\)\(2\)\(ii\) Facility Security Plan
+* 164.310\(a\)\(2\)\(iii\) Access Control & Validation Procedures
+* 164.310\(b-c\) Workstation Use & Security
 
 ## 09.2 WatchTower-controlled Facility Access Policies
 
@@ -19,14 +18,14 @@ Of note, WatchTower does not have ready access to ePHI, it provides cloud-based,
 2. Repairs are documented and the documentation is retained.
 3. Fire extinguishers and detectors are installed according to applicable laws and regulations.
 4. Maintenance is controlled and conducted by authorized personnel in accordance with supplier-recommended intervals, insurance policies and the organization's maintenance program.
-5. Electronic and physical media containing covered information is securely destroyed (or the information securely removed) prior to disposal.
+5. Electronic and physical media containing covered information is securely destroyed \(or the information securely removed\) prior to disposal.
 6. The organization securely disposes media with sensitive information.
 7. Physical access is restricted using smart locks that track all access.
-   * Restricted areas and facilities are locked when unattended (where feasible).
-   * Only authorized workforce members receive access to restricted areas (as determined by the Security Officer).
+   * Restricted areas and facilities are locked when unattended \(where feasible\).
+   * Only authorized workforce members receive access to restricted areas \(as determined by the Security Officer\).
    * Access and keys are revoked upon termination of workforce members.
-   * Workforce members must report a lost and/or stolen key(s) to the Security Officer.
-   * The Security Officer facilitates the changing of the lock(s) within 7 days of a key being reported lost/stolen
+   * Workforce members must report a lost and/or stolen key\(s\) to the Security Officer.
+   * The Security Officer facilitates the changing of the lock\(s\) within 7 days of a key being reported lost/stolen
 8. Enforcement of Facility Access Policies
    * Report violations of this policy to the restricted area's department team leader, supervisor, manager, or director, or the Privacy Officer.
    * Workforce members in violation of this policy are subject to disciplinary action, up to and including termination.
@@ -35,3 +34,4 @@ Of note, WatchTower does not have ready access to ePHI, it provides cloud-based,
    * Workstations may only be accessed and utilized by authorized workforce members to complete assigned job/contract responsibilities.
    * All workforce members are required to monitor workstations and report unauthorized users and/or unauthorized attempts to access systems/applications as per the System Access Policy.
    * All workstations purchased by WatchTower are the property of WatchTower and are distributed to users by the company.
+

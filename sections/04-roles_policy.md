@@ -1,23 +1,24 @@
 # 4. Roles Policy
 
-WatchTower has a Security and Privacy Officer [164.308(a)(2)] [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with this role are outlined below.
+WatchTower has a Security and Privacy Officer \[164.308\(a\)\(2\)\] \[164.308\(a\)\(2\)\] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with this role are outlined below.
 
 ## 4.1 Applicable Standards
 
 ### 4.1.1 Applicable Standards from the HIPAA Security Rule
 
-* 164.308(a)(2) - Assigned Security Responsibility
-* 164.308(a)(5)(i) - Security Awareness and Training
+* 164.308\(a\)\(2\) - Assigned Security Responsibility
+* 164.308\(a\)\(5\)\(i\) - Security Awareness and Training
 
 ## 4.2 Security and Privacy Officer
 
 The Security and Privacy Officer is responsible for:
-  *  assisting with compliance and security training for workforce members, 
-  *  assuring organization remains in compliance with evolving compliance rules, 
-  *  investigation and sanctioning of any workforce member that is in violation of WatchTower security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], 
-  *  and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)]
 
-The current WatchTower Security and Privacy Officer is Shaheeb Roshan ([shaheebroshan@watchtowerbenefits.com](mailto:shaheebroshan@watchtowerbenefits.com)).
+* assisting with compliance and security training for workforce members, 
+* assuring organization remains in compliance with evolving compliance rules, 
+* investigation and sanctioning of any workforce member that is in violation of WatchTower security policies and non-compliance with the security regulations \[164.308\(a\)\(1\)\(ii\)\(c\)\], 
+* and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance \[164.316\(a-b\)\]
+
+The current WatchTower Security and Privacy Officer is Shaheeb Roshan \([shaheebroshan@watchtowerbenefits.com](mailto:shaheebroshan@watchtowerbenefits.com)\).
 
 ### 4.2.1 Workforce Training Responsibilities
 
@@ -38,7 +39,7 @@ The current WatchTower Security and Privacy Officer is Shaheeb Roshan ([shaheebr
    8. Users are required to report malicious software to the Security Officer immediately;
    9. Users are required to report unauthorized attempts, uses of, and theft of WatchTower's systems and/or workstations;
    10. Users are required to report unauthorized access to facilities
-   11. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation);
+   11. Users are required to report noted log-in discrepancies \(i.e. application states users last log-in was on a date user was on vacation\);
    12. Users may not alter ePHI maintained in a database, unless authorized to do so by a WatchTower Customer;
    13. Users are required to understand their role in WatchTower's contingency plan;
    14. Users may not share their user names nor passwords with anyone;
@@ -51,7 +52,6 @@ The current WatchTower Security and Privacy Officer is Shaheeb Roshan ([shaheebr
    21. Procedures to dispose of discs, CDs, hard drives, and other media containing ePHI;
    22. Procedures to re-use electronic media containing ePHI;
    23. SSH key and sensitive document encryption procedures.
-
 
 ### 4.2.2 Organizational Responsibilities
 
@@ -72,7 +72,7 @@ These organizational responsibilities include, but are not limited to the follow
     * Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
     * Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of WatchTower.
     * Mitigates, to the extent practicable, any harmful effect known to WatchTower of a use or disclosure of ePHI in violation of WatchTower's policies and procedures, even if effect is the result of actions of WatchTower business associates, customers, and/or partners.
-11. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [WatchTower Breach Policy](#11.-breach-policy).
+11. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [WatchTower Breach Policy](04-roles_policy.md#11.-breach-policy).
 12. The Security and Privacy Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains. Examples of security updates and reminders include, but are not limited to:
     * Latest malicious software or virus alerts;
     * WatchTower's requirement to report unauthorized attempts to access ePHI;
@@ -89,7 +89,7 @@ These organizational responsibilities include, but are not limited to the follow
 
 ### 4.2.3 Supervision of Workforce Responsibilities
 
-Although the Security and Privacy Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of WatchTower's systems, applications, servers, workstations, etc. that contain ePHI.
+Although the Security and Privacy Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members \(i.e. team leaders, supervisors, managers, directors, co-workers, etc.\) to supervise all workforce members and any other user of WatchTower's systems, applications, servers, workstations, etc. that contain ePHI.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and theft and report non-compliance according to the Security Incident Response policy.
 2. Assist the Security and Privacy Officer to ensure appropriate role-based access is provided to all users.
@@ -106,7 +106,8 @@ All workforce members report non-compliance of WatchTower's policies and procedu
    * Provide individuals suspected of non-compliance of the Security rule and/or WatchTower's policies and procedures the opportunity to explain their actions.
    * The investigator thoroughly documents the investigation as the investigation occurs. This documentation must include a list of all employees involved in the violation.
 2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment. Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges. Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations.
-   * A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from WatchTower.
-3. The Security and Privacy Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
+   * A violation resulting in a breach of confidentiality \(i.e. release of PHI to an unauthorized individual\), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from WatchTower.
+3. The Security and Privacy Officer facilitates taking appropriate steps to prevent recurrence of the violation \(when possible and feasible\).
 4. In the case of an insider threat, the Security and Privacy Officer is to set up a team to investigate and mitigate the risk of insider malicious activity. WatchTower workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
 5. The Security and Privacy Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
+

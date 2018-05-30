@@ -6,8 +6,8 @@ WatchTower implements policies and procedures to maintain compliance and integri
 
 ### 2.1.1 Applicable Standards from the HIPAA Security Rule
 
-* 164.316(a) - Policies and Procedures
-* 164.316(b)(1)(i) - Documentation
+* 164.316\(a\) - Policies and Procedures
+* 164.316\(b\)\(1\)\(i\) - Documentation
 
 ## 2.2 Maintenance of Policies
 
@@ -18,7 +18,7 @@ WatchTower implements policies and procedures to maintain compliance and integri
    2. The Security and Privacy Officer is assigned to review the policy change request.
    3. Once the review is completed, the Security and Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    4. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-   5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using WatchTower's [change management process (§8.4)](#8.4-changing-existing-systems).
+   5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using WatchTower's [change management process \(§8.4\)](02-policy_management_policy.md#8.4-changing-existing-systems).
 4. All policies are made accessible to all WatchTower workforce members. The current master policies are published at [https://policy.watchtowerbenefits.com](https://policy.watchtowerbenefits.com).
    * Changes are automatically communicated to all WatchTower team members through integrations between GitHub and Slack that log all changes to the policy documentation.
    * The Security and Privacy Officer also communicates policy changes to all employees via email. These emails include a high-level description of the policy change using terminology appropriate for the target audience.
@@ -27,7 +27,7 @@ WatchTower implements policies and procedures to maintain compliance and integri
    2. Backup storage of all policies is done with Google Drive.
 6. The policies and information security policies are reviewed and audited annually, or after significant changes occur to WatchTower's organizational environment. Issues that come up as part of this process are reviewed by WatchTower management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
    1. The Security and Privacy Officer initiates the policy review by creating an Issue in the WatchTower Project Management System.
-   2. The Security and Privacy Officer is assigned to review the current WatchTower policies ([https://policy.watchtowerbenefits.com/](https://policy.watchtowerbenefits.com/)).
+   2. The Security and Privacy Officer is assigned to review the current WatchTower policies \([https://policy.watchtowerbenefits.com/](https://policy.watchtowerbenefits.com/)\).
    3. If changes are made, the above process is used. All changes are documented in the Issue.
    4. Once the review is completed, the Security and Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
@@ -39,4 +39,5 @@ WatchTower implements policies and procedures to maintain compliance and integri
    4. If the review is approved, the Security and Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
    5. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using the Project Management System reporting to assess compliance with above policy.
 
-Additional documentation related to maintenance of policies is outlined in [§4.2.2](#4.2-security-and-privacy-officer).
+Additional documentation related to maintenance of policies is outlined in [§4.2.2](02-policy_management_policy.md#4.2-security-and-privacy-officer).
+
